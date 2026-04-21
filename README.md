@@ -1,52 +1,49 @@
-<table>
-  <tr>
-    <td width="100">
-      <a href="https://www.uit.edu.vn/">
-        <img src="logo-uit.png" alt="Logo UIT" width="100">
-      </a>
-    </td>
-    <td>
-      <p style="font-size: 14px; margin: 0;">ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH</p>
-      <p style="font-size: 14px; margin: 0;">TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN</p>
-      <h2 style="color: #007bff; margin: 5px 0;">VNUHCM - UIT</h2>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: 5;">
+    <img src="https://i.imgur.com/WmMnSRt.png" alt="Trường Đại học Công nghệ Thông tin | University of Information Technology">
+  </a>
+</p>
 
-<h1 align="center">IS208 - QUẢN LÝ DỰ ÁN CNTT</h1>
+<!-- Title -->
+<h1 align="center"><b>IS208 - QUẢN LÝ DỰ ÁN CNTT</b></h1>
 
----
 
-</div>
 
-### BẢNG MỤC LỤC
-* [Giới thiệu môn học](#giới-thiệu-môn-học)
-* [Giảng viên hướng dẫn](#giảng-viên-hướng-dẫn)
-* [Thành viên nhóm](#thành-viên-nhóm)
-* [Seminar](#seminar)
-* [Đồ án môn học](#đồ-án-môn-học)
+## BẢNG MỤC LỤC
+* [ Giới thiệu môn học](#gioithieumonhoc)
+* [ Giảng viên hướng dẫn](#giangvien)
+* [ Thành viên nhóm](#thanhvien)
+* [ Seminar](#seminar)
+* [ Đồ án môn học](#doan)
 
----
 
-### GIỚI THIỆU MÔN HỌC
-* **Tên môn học:** Quản lý dự án CNTT - Information Technology Project Management
-* **Mã môn học:** IS208
-* **Lớp học:** IS208.Q21
-* **Năm học:** 2025-2026
+## GIỚI THIỆU MÔN HỌC
+<a name="gioithieumonhoc"></a>
+* **Tên môn học**: Quản lý dự án CNTT - Information Technology Project Management
+* **Mã môn học**: IS208
+* **Lớp học**: IS208.P21
+* **Năm học**: 2024-2025
 
-### GIẢNG VIÊN HƯỚNG DẪN
-* **ThS. Tạ Việt Phương** - [phuongtv@uit.edu.vn](mailto:phuongtv@uit.edu.vn)
 
-### THÀNH VIÊN NHÓM
-| STT | MSSV | Họ và Tên | Github | Email |
-|:---:|:---:|:---|:---:|:---|
-| 1 | 24520044 | Hồ Gia An | | 24520044@gm.uit.edu.vn |
-| 2 | 24521732 | Trần Anh Thư | | 24521732@gm.uit.edu.vn |
-| 3 | 24521336 | Nguyễn Cao Gia Phong | | 245213360@gm.uit.edu.vn |
-| 4 | 24521328 | Chử Đức Phong | | 24521328@gm.uit.edu.vn |
-| 5 | 24521447 | Nguyễn Tùng Quân | | 24521447@gm.uit.edu.vn |
+## GIẢNG VIÊN HƯỚNG DẪN
+<a name="giangvien"></a>
+* ThS. **Tạ Việt Phương** - *phuongtv@uit.edu.vn*
 
-### SEMINAR
----
-### ĐỒ ÁN MÔN HỌC
----
+
+## THÀNH VIÊN NHÓM
+<a name="thanhvien"></a>
+| STT    | MSSV          | Họ và Tên              | Github                                               | Email                   |
+| ------ |:-------------:| ----------------------:|-----------------------------------------------------:|-------------------------:
+| 1      | 23520871      | Nguyễn Ngọc Lợi        |                                                      |23520871@gm.uit.edu.vn   |
+| 2      | 23520400      | Lê Kỳ Duyên            |                                                      |23520400@gm.uit.edu.vn   |
+| 3      | 23520440      | Võ Hà Khả Hân          |                                                      |23520440@gm.uit.edu.vn   |
+| 4      | 23520431      | Lê Thị Ngọc Hân        |                                                      |23520431@gm.uit.edu.vn   |
+| 5      | 23520287      | Trần Ngọc Điểm         |                                                      |23520287@gm.uit.edu.vn   |
+
+## SEMINAR
+<a name="seminar"></a>
+
+
+
+## ĐỒ ÁN MÔN HỌC
+<a name="doan"></a>
