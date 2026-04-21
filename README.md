@@ -6,7 +6,6 @@
 
 <h1 align="center"><b>IS208 - QUẢN LÝ DỰ ÁN CNTT</b></h1>
 
----
 
 ## BẢNG MỤC LỤC
 * [Giới thiệu môn học](#gioithieumonhoc)
