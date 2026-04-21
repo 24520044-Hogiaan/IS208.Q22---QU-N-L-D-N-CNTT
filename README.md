@@ -31,8 +31,8 @@
 ### GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** Quản lý dự án CNTT - Information Technology Project Management
 * **Mã môn học:** IS208
-* **Lớp học:** IS208.P21
-* **Năm học:** 2024-2025
+* **Lớp học:** IS208.Q21
+* **Năm học:** 2025-2026
 
 ### GIẢNG VIÊN HƯỚNG DẪN
 * **ThS. Tạ Việt Phương** - [phuongtv@uit.edu.vn](mailto:phuongtv@uit.edu.vn)
